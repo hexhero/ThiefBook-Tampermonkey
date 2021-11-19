@@ -33,7 +33,6 @@ var turn_page = false;
     }
 
     function show(text){
-        var aux = '<br/><a>https://teams.microsoft.com/l/message/19:3df5eb4ce7d04613adc50f3fd5e337a9@thread.skype/1623871505352?tenantId=a2af9d71-95f1-4236-be2c-c105ab9b7ee9&groupId=1ce5732c-8bbb-4314-b09e-833dce72554b&parentMessageId=1623871505352&teamName=MSPbots.ai&channelName=Bug%20Report%20and%20Feature%20Requests&createdTime=1623871505352</a>'
         $('.'+attch_class).html(text)
     }
 
